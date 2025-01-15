@@ -25,6 +25,7 @@ Driven by innovation, I have a strong foundation in full-stack development, tran
 ## 🛠 **Skills & Technologies**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-advanced-yellow)  
+![ReactJS](https://img.shields.io/badge/React.js-advanced-blue)  
 ![Node.js](https://img.shields.io/badge/Node.js-expert-green)  
 ![Express](https://img.shields.io/badge/Express-advanced-blue)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-expert-green)  
@@ -36,7 +37,6 @@ Driven by innovation, I have a strong foundation in full-stack development, tran
 
 ### 💡 **Core Competencies:**
 - Full Stack Development (MERN Stack)
-- NextJS
 - AI-Powered Solutions
 - Agile Methodologies & SDLC
 - Database Design (SQL & NoSQL)
@@ -91,7 +91,6 @@ Back-end developer for an AI-powered cancer treatment platform offering personal
 ---
 
 ## 🌱 **Currently Learning:**
-- **ReactJS** | Building dynamic, high-performance user interfaces.
 - **NextJS** | For building production-level applications with enhanced server-side rendering.
 
 ---
